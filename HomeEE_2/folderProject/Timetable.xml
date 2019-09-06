@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<timetable>
+    <trains>
+        <trains id="1">
+            <from>УЖГОРОД</from>
+            <to>ЗАПОРОЖЬЕ 1</to>
+            <date>2019-09-09T02:51:53.314+03:00</date>
+            <departure>02:14</departure>
+        </trains>
+        <trains id="2">
+            <from>ИВАНО-ФРАНКОВСК</from>
+            <to>ГЕНИЧЕСК</to>
+            <date>2019-09-09T02:51:53.314+03:00</date>
+            <departure>11:56</departure>
+        </trains>
+        <trains id="3">
+            <from>ЛЬВОВ</from>
+            <to>МАРИУПОЛЬ</to>
+            <date>2019-09-09T02:51:53.314+03:00</date>
+            <departure>20:03</departure>
+        </trains>
+        <trains id="4">
+            <from>БЕРДЯНСК</from>
+            <to>КИЕВ-ПАССАЖИРСКИЙ</to>
+            <date>2019-09-09T02:51:53.314+03:00</date>
+            <departure>17:51</departure>
+        </trains>
+        <trains id="5">
+            <from>ОДЕССА-ГЛАВНАЯ</from>
+            <to>КОНСТАНТИНОВКА</to>
+            <date>2019-09-09T02:51:53.314+03:00</date>
+            <departure>18:20</departure>
+        </trains>
+        <trains id="6">
+            <from>ЧЕРНОВЦЫ</from>
+            <to>ГЕНИЧЕСК</to>
+            <date>2019-09-09T02:51:53.314+03:00</date>
+            <departure>21:07</departure>
+        </trains>
+        <trains id="7">
+            <from>ЗАПОРОЖЬЕ 1</from>
+            <to>КИЕВ-ПАССАЖИРСКИЙ</to>
+            <date>2019-09-09T02:51:53.314+03:00</date>
+            <departure>22:00</departure>
+        </trains>
+        <trains id="8">
+            <from>ЗАПОРОЖЬЕ 1</from>
+            <to>УЖГОРОД</to>
+            <date>2019-09-11T18:51:53.314+03:00</date>
+            <departure>17:02</departure>
+        </trains>
+        <trains id="9">
+            <from>НОВОАЛЕКСЕЕВКА</from>
+            <to>ЛЬВОВ</to>
+            <date>2019-09-17T02:51:53.314+03:00</date>
+            <departure>16:04</departure>
+        </trains>
+        <trains id="10">
+            <from>КИЕВ-ПАССАЖИРСКИЙ</from>
+            <to>БЕРДЯНСК</to>
+            <date>2019-09-27T18:51:53.314+03:00</date>
+            <departure>12:00</departure>
+        </trains>
+    </trains>
+</timetable>
