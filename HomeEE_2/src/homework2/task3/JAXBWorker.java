@@ -25,20 +25,4 @@ public class JAXBWorker  {
         return exchangerates;
     }
 
-
-    /*
-     public static Dependencies loadFromXML(File file){
-        JAXBContext jaxbContext = null;
-        try {
-            jaxbContext = JAXBContext.newInstance(Dependencies.class);
-            Unmarshaller unmarshaller = jaxbContext.createUnmarshaller();
-            Dependencies dependencies = (Dependencies) unmarshaller.unmarshal(file);
-            return dependencies;
-        } catch (JAXBException e) {
-            e.printStackTrace();
-        }
-        return null;
-    }
-     */
-
 }
